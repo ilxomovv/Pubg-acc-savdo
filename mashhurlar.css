@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    gap: 1200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
+.ozqo{
+    background-color: burlywood;
+    border-radius:10px;
+    border-color: transparent;
+}
+.zz{
+    color: blue;
+    text-decoration: none;
+    font-weight: 800;
+}
+.doxname{
+    display: flex;
+    margin-top: 60px;
+    gap: 30px;
+}
+.eee{
+    border-radius: 10px;
+}
+.bratla1{
+    display: flex;
+    width: 1230px;
+}
+.marvin{
+    padding: 0;
+    margin-top: 60px;
+    margin-left: 30px;
+    display: flex;
+    gap: 20px;
+    border: 1px solid #E5E8ED;
+    width: 600px;
+    border-radius: 4px;
+    box-shadow: 0px 4px 4px -4px #1E212C08;
+    box-shadow: 12px 10px #83848b;
+}
+
+del{
+    text-decoration: none;
+}
+.bluetext{
+    background-color: blue;
+    color: white;
+
+    width: 85px;
+    height: 23px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    margin-top: 32px;
+}
+.aa{
+    display: flex;
+    gap: 20px;
+    border: 1px solid #E5E8ED;
+    
+    border-radius: 4px;
+    
+    margin-top: 30px;
+    width: 600px;
+}
+.aa:hover{
+    
+    box-shadow: 5px 15px #9A9CA53A;
+}
+.mallarang{
+     background-color: rgb(233, 184, 10);
+    color: white;
+
+    width: 112px;
+    height: 23px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    margin-top: 32px;   
+    margin-bottom: 47px;
+}
+.ha{
+    margin-bottom: 32px;
+}
+.achkicha{
+    display: flex;
+    gap: 20px;
+    border: 1px solid #E5E8ED;
+    width: 700px;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 50px;
+}
+.achkicha2{
+    display: flex;
+    gap: 20px;
+    border: 1px solid #E5E8ED;
+    width: 700px;
+    border-radius: 10px;
+    background-color: white;
+    margin-right: 50px;
+}
+.achkicha:hover{
+    transition: 2s;
+    box-shadow: 0 30px 30px gray;
+}
+.achkicha2:hover{
+    transition: 2s;
+    box-shadow: 0 30px 30px gray;
+}
+
+
+.greentext{
+    background-color: rgb(16, 203, 16);
+    width: 80px;
+    height: 23px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    margin-top: 32px;
+}
+.hd{
+    margin-top: 43px;
+    margin-bottom: 30px;
+}
+.zzz{
+    padding: 5px 20px;
+    border-radius: 8px;
+    border-color: transparent;
+    background-color: white;
+    margin-left: 648px;
+    margin-top: 50px;
+}
+.zzzbtn{
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+.zzzbtn:hover{
+    transition: 0s;
+    font-weight: 300;
+}
+.zzz:hover{
+    border-color: rebeccapurple;
+    box-shadow: 0 15px 15px gray;
+    border-width: 3px;
+    transition: 0s;
+}
+footer{
+    display: flex;
+    background-color: rgb(83, 83, 83);
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.footerh3{
+    color: white;
+}
+.footerh1{
+    font-family: cursive;
+    display: flex;
+
+}
+.birakkbtn{
+    margin-left: 300px;
+    margin-top: 15px;
+    background-color: green;
+    padding-top: 10px;
+    border-radius: 10px;
+    color: white;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,185 @@
+body{
+    background: #f9fafb;
+}
+.testimonials {
+    text-align: center;
+    padding: 80px 0;
+    background: #f9fafb;
+    position: relative;
+    font-family: sans-serif;
+}
+
+.label {
+    font-size: 12px;
+    letter-spacing: 2px;
+    color: #6b7280;
+}
+
+.testimonials h2 {
+    font-size: 32px;
+    margin: 10px 0 40px;
+    color: #111827;
+}
+
+.testimonial-box {
+    width: 800px;
+    margin: auto;
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+    
+    position: relative;
+}
+.testimonial-box:hover{
+    box-shadow: 0 20px 40px wheat;
+}
+.quote {
+    font-size: 60px;
+    color: #ff3b3b;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+.text {
+    font-size: 16px;
+    color: #374151;
+    line-height: 1.7;
+    margin-bottom: 30px;
+}
+.user {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.user img {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+}
+
+.user strong {
+    display: block;
+    font-size: 14px;
+}
+
+.user span {
+    font-size: 12px;
+    color: #6b7280;
+}
+
+.arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    border: none;
+    background: #ff3b3b;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.arrow.left {
+    left: 60px;
+}
+
+.arrow.right {
+    right: 60px;
+}
+
+.dots {
+    margin-top: 30px;
+}
+
+.dots span {
+    display: inline-block;
+    width: 20px;
+    height: 3px;
+    background: #d1d5db;
+    margin: 0 4px;
+}
+
+.dots .active {
+    background: #111827;
+}
+.btn12{
+    margin-left: 500px;
+}
+.btn12 > button{
+    width: 150px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    border-color: transparent;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px rgb(241, 235, 235);
+}
+
+.footerbottom{
+    background-image: url(background\ \(6\).png);
+    background-color: #1E212C;
+    padding: 20px 120px;
+    display: flex;
+    gap: 869px;
+}
+.footerbottom > p{
+    color: white;
+}
+.engpasii{
+    background-color: #1d1e20;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid white;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.righta{
+    color: white;
+    font-size: 25px;
+}
+.kopbtn{
+    margin-left: 605px;
+}
+.koproq{
+    background-image: linear-gradient(to right, blue, white);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: #ff3f3a;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.koproq:hover{
+    color: white;
+    box-shadow: 5px 5px 5px 5px rgb(71, 23, 116);
+}
+.ijtimoiytarmoqlar{
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 10px;
+}
+.left{
+    margin-left: 540px;
+}
+.engpasii{
+    margin-top: 262px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wwwinsta{
+    text-decoration: none;
+    color: #6b7280;
+}
+.wwwinsta:visited{
+    color: red;
+}

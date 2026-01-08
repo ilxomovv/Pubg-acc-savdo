@@ -1,0 +1,85 @@
+*{
+   margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    gap: 1230px;
+    
+    padding-bottom: 10px;
+    background-color: white;
+    position: sticky;
+    top: 0px;
+    border-bottom: 2px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.navbarcreate{
+    width: 60px;
+    height: 60px;
+    font-size: 50px;
+    border-radius: 50%;
+    background-color: chocolate;
+    border-color: transparent;
+    color: white;
+
+}
+.birakkbtna{
+    margin: 0;
+    padding: 12px 20px;
+    color: white;
+}
+.birakkbtna:hover{
+    color: white;
+    transition: 0s;
+    border-color: transparent;
+
+}
+.birakk{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 1px solid black;
+}
+.birakkright{
+    margin-right: 100px;
+}
+.birakkh1{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.birakkp{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.red{
+    background-color: red;
+    color: white;
+    padding: 2px;
+    font-family: none;
+    border-radius: 5px;
+    
+}
+footer{
+    display: flex;
+    background-color: rgb(83, 83, 83);
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.footerh3{
+    color: white;
+}
+.footerh1{
+    font-family: cursive;
+    display: flex;
+
+}
